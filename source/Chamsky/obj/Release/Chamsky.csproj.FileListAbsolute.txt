@@ -1,0 +1,12 @@
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\bin\Release\Chamsky.exe.manifest
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\bin\Release\Chamsky.application
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\bin\Release\Chamsky.exe
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\bin\Release\Chamsky.pdb
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\ResolveAssemblyReference.cache
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.MainForm.resources
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.Properties.Resources.resources
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.csproj.GenerateResource.Cache
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.exe.manifest
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.application
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.exe
+E:\cs\NLP\文本分类\Chamsky\source\Chamsky\obj\Release\Chamsky.pdb

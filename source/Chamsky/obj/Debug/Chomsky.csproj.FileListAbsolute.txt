@@ -1,0 +1,8 @@
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\bin\Debug\Chomsky.exe
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\bin\Debug\Chomsky.pdb
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\ResolveAssemblyReference.cache
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\Chomsky.MainForm.resources
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\Chomsky.Properties.Resources.resources
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\Chomsky.csproj.GenerateResource.Cache
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\Chomsky.exe
+E:\cs\NLP\文本分类\Chomsky\Chomsky\Chomsky\obj\Debug\Chomsky.pdb
